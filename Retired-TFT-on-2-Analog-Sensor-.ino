@@ -60,8 +60,8 @@ void setup() {
   TFTscreen.text("Sensor Value :\n ", 25,20);
   // ste the font size very large for the loop
   TFTscreen.setTextSize(2);
-   TFTscreen.text("A0 :", 25,50);
-   TFTscreen.text("A1 :", 25,70);
+   TFTscreen.text("A0:", 25,50);
+   TFTscreen.text("A1:", 25,70);
 }
 
 void loop() {
