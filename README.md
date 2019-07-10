@@ -1,2 +1,2 @@
 # Retired-TFT-on-2-Analog-Sensor-
-Testing alternate driver for TFT_ILI9163C
+Testing default driver for 128X160 RED TFT_ILI9163C alternatives.
